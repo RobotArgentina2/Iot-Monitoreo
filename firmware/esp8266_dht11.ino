@@ -1,4 +1,4 @@
-// Agente 1: Adquisición de Datos
+// Adquisición de Datos
 // Envía datos al Backend Node.js
 
 // --- CONFIGURACIÓN ---
